@@ -48,7 +48,7 @@ $(document).ready(function() {
 		//start the ajax
 		$.ajax({
 			//this is the php file that processes the data and send mail
-			url: "process.php",	
+			url: "contact.php",	
 			
 			//GET method is used
 			type: "GET",
@@ -62,7 +62,7 @@ $(document).ready(function() {
 			//success
 			success: function (html) {				
 				//if process.php returned 1/true (send mail success)
-				if (html==1) {					
+				//if (html==1) {					
 					//hide the form
 					
 					var tracking_code = '<iframe src="tracking.html" width="1px" height="1px" frameborder="0" marginwidth ="0px" marginheight="0px" scrolling="no"></iframe>';
@@ -80,7 +80,7 @@ $(document).ready(function() {
 					spinner.stop();
 					
 				//if process.php returned 0/false (send mail failed)
-				} else alert('Sorry, unexpected error. Please try again later.');				
+				//} else alert('Sorry, unexpected error. Please try again later.');				
 			}		
 		});
 		}
