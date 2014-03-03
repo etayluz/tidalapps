@@ -13,11 +13,11 @@ error_log("here");
 // $phone = $_POST['phone'];
 // $budget = $_POST['budget'];
 // $comment = $_POST['comment'];
-$email_message = "Name: ".$name."\n\n"."\n\n".$phone."\n\n".$budget."\n\n".$comment;
+$email_message = "Name: ".$name."\n\n"."Email: ".$email."\n\n"."\n\n".$phone."\n\n".$budget."\n\n".$comment;
 error_log($email_message);
 // create email headers
-$headers = 'From: '.$email."\r\n".
-'Reply-To: '.$email."\r\n" .
+$headers = 'From: '."NewLead@tidalapps.com"."\r\n".
+'Reply-To: '."NewLead@tidalapps.com"."\r\n" .
 'X-Mailer: PHP/' . phpversion();
 
 // send email

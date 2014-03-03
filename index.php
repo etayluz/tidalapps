@@ -45,11 +45,11 @@
 	
 			<div class="nav2">
 		<ul>
-			<li><a href="index.html#intro">Home</a></li>
-			<li><a href="index.html#work">Portfolio</a></li>
-			<li><a href="index.html#services">Services</a></li>
-			<li><a href="index.html#about">About</a></li>
-			<li><a href="index.html#contact">Contact</a></li>
+			<li><a href="index.php#intro">Home</a></li>
+			<li><a href="index.php#work">Portfolio</a></li>
+			<li><a href="index.php#services">Services</a></li>
+			<li><a href="index.php#about">About</a></li>
+			<li><a href="index.php#contact">Contact</a></li>
 		</ul>
 	</div> <!-- end nav2 -->
 		
@@ -57,8 +57,8 @@
 		
 			<div style="height: 200px;margin-top: -100px;overflow: hidden;"><img src="images/intro.png" style="margin-left: -45px;" /></div><br />
 			<p style="color:white;font-size:26px;margin-top:-10px;margin-left:-40px;">We make <strong style="color:white;">insanely gorgeous</strong> hand crafted apps</p>
-			<a class="a_demo_four" href="index.html#contact"><strong>Get FREE Quote</strong></a> <span><strong>OR</strong></span>
-			<a class="a_demo_four" style="left:10px;" href="index.html#contact"><strong>Call us at +1 (408) 775-9647</strong></a>
+			<a class="a_demo_four" href="index.php#contact"><strong>Get FREE Quote</strong></a> <span><strong>OR</strong></span>
+			<a class="a_demo_four" style="left:10px;" href="index.php#contact"><strong>Call us at +1 (408) 775-9647</strong></a>
 						
 			
 			
@@ -134,7 +134,7 @@
 				
 				<div class="one-third column">
 					<a href="javascript:;" id="grocery"><img src="images/thumb15.jpg" class="scale-with-grid" alt="" /></a>
-					<p class="proj-name"><a href="index.html#">Grocerify (iOS, Android, Web)</a></p>
+					<p class="proj-name"><a href="index.php#">Grocerify (iOS, Android, Web)</a></p>
 					<p class="proj-desc">App Development, UI/UX Design and RESTful-API Development</p>
 				</div> <!-- end one third column-->
 				
@@ -187,7 +187,7 @@
 
 	
 	<div class="dotted-bar2">
-		<a href="index.html#intro"><span class="top"></span></a>
+		<a href="index.php#intro"><span class="top"></span></a>
 	</div>
 
 	
@@ -243,12 +243,12 @@
 	</div> <!-- end testimonial -->
 	
 	<div class="hire">
-			<a class="a_demo" href="index.html#contact"><strong>Hire Us</strong></a>
+			<a class="a_demo" href="index.php#contact"><strong>Hire Us</strong></a>
 	</div>
 	
 	
 	<div class="dotted-bar2">
-		<a href="index.html#intro"><span class="top"></span></a>
+		<a href="index.php#intro"><span class="top"></span></a>
 	</div>
 	
 	
@@ -280,7 +280,7 @@
 		<div class="bg2"></div>
 	
 		<div class="dotted-bar3">
-			<a href="index.html#intro"><span class="top2"></span></a>
+			<a href="index.php#intro"><span class="top2"></span></a>
 		</div>		
 	
 		<div class="container" id="contactspinner">
