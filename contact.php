@@ -6,7 +6,7 @@ error_log("here");
 error_log($name);
 
 $email_to = "etayluz@gmail.com";
-$email_subject = "New Contact";
+$email_subject = "New Lead";
 error_log("here");
 // $name = $_POST['name'];
 // $email_from = $_POST['email'];
