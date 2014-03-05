@@ -58,7 +58,7 @@
 			<div style="height: 200px;margin-top: -100px;overflow: hidden;"><img src="images/intro.png" style="margin-left: -45px;" /></div><br />
 			<p style="color:white;font-size:26px;margin-top:-10px;margin-left:-40px;">We make <strong style="color:white;">insanely gorgeous</strong> hand crafted apps</p>
 			<a class="a_demo_four" href="index.php#contact"><strong>Get FREE Quote</strong></a> <span><strong>OR</strong></span>
-			<a class="a_demo_four" style="left:10px;" href="index.php#contact"><strong>Call us at +1 (408) 775-9647</strong></a>
+			<a class="a_demo_four" style="left:10px;" href="index.php#contact"><strong>Call us at +1 (650) 273-0462</strong></a>
 						
 			
 			
@@ -343,7 +343,7 @@
 			
 				<div class="contact-info">
 					
-						<p><img src="images/icn-phone.png" alt="" /> +1 (408)-775-9647</p>
+						<p><img src="images/icn-phone.png" alt="" /> +1 (650) 273-0462</p>
 						<p><img src="images/icn-address.png" alt="" /> 2 West 45th St. 5th Avenue, <span>NY 10036, USA<span></p>
 
 				</div> <!-- end contact-info -->
