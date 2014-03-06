@@ -263,7 +263,7 @@
 			<div class="sixteen columns">
 				<div style="margin-left:40px !important" class="four columns alpha intro-pic">
 					<img src="images/etay.png" class="scale-with-grid" alt="" />
-					<p><strong>Etay Luz</strong><br />Founder and CEO</p>
+					<p><strong>Etay Luz</strong><br />Co-Founder and CTO</p>
 				</div> 
 				<div style="position:relative;left:40px;width:800px;text-align:left;line-height:2;font-size:14">
 				 My name is Etay Luz and I am the founder of Tidal Apps, a New York City based app development agency that specializes in building custom mobile and web apps for entrepreneurs, small businesses, and organizations. Prior to founding Tidal Apps, I worked as a mobile software engineer for some of the largest technology companies in Silicon Valley including Motorola, Intel, and Qualcomm. I lead a team of incredibly talented mobile and server engineers and graphic designers that together will turn your next app idea into one of the most beautifully crafted apps on the app store.
