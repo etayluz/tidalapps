@@ -345,7 +345,7 @@
 				<div class="contact-info">
 					
 						<p><img src="images/icn-phone.png" alt="" /> +1 (650) 273-0462</p>
-						<p><img src="images/icn-address.png" alt="" /> 2 West 45th St. 5th Avenue, <span>NY 10036, USA<span></p>
+						<p><img src="images/icn-address.png" alt="" /> WeWork Labs <p><span>175 Varick Street<p><span>NY 10014, USA<span></p></p>
 
 				</div> <!-- end contact-info -->
 				
