@@ -58,7 +58,7 @@
 			<div style="height: 200px;margin-top: -100px;overflow: hidden;"><img src="images/intro.png" style="margin-left: -45px;" /></div><br />
 			<p style="color:white;font-size:26px;margin-top:-10px;margin-left:-40px;">We make <strong style="color:white;">insanely gorgeous</strong> hand crafted apps</p>
 			<a class="a_demo_four" href="index.php#contact"><strong>Get FREE Quote</strong></a> <span><strong>OR</strong></span>
-			<a class="a_demo_four" style="left:10px;" href="index.php#contact"><strong>Call us at +1 (347) 504-1089</strong></a>
+			<a class="a_demo_four" style="left:10px;" href="index.php#contact"><strong>Call us at +1 (347) 903-4701</strong></a>
 						
 			
 			
@@ -263,11 +263,11 @@
 			<div class="sixteen columns">
 				<div style="margin-left:40px !important" class="four columns alpha intro-pic">
 				<!-- <div style="margin-left:360px !important" class="four columns alpha intro-pic"> -->
-					<img src="images/etay.png" class="scale-with-grid" alt="" />
-					<p><strong>Etay Luz</strong><br />Founder and CEO</p>
+					<img src="images/Amit.jpg" class="scale-with-grid" alt="" />
+					<p><strong>Amit Caspi</strong><br />Founder and CEO</p>
 				</div> 
 					<div style="position:relative;left:40px;width:800px;text-align:left;line-height:2;font-size:14">
-					 Etay Luz is founder and CEO of Tidal Apps, a New York City based app development agency that specializes in building custom mobile and web apps for entrepreneurs, small businesses, and organizations. Prior to founding Tidal Apps, Etay worked as a mobile software engineer for some of the largest technology companies in Silicon Valley including Motorola, Intel, and Qualcomm. He leads a team of incredibly talented mobile engineers, server engineers, and graphic designers that together will turn your next app idea into one of the most beautifully crafted apps on the app store.
+					 Amit Caspi is founder and CEO of Tidal Apps, a New York City based app development agency that specializes in building custom mobile and web apps for entrepreneurs, small businesses, and organizations.
 					</div>
 			</div> <!-- twelve columns -->
 			
@@ -344,7 +344,7 @@
 			
 				<div class="contact-info">
 					
-						<p><img src="images/icn-phone.png" alt="" /> +1 (347) 504-1089</p>
+						<p><img src="images/icn-phone.png" alt="" /> +1 (347) 903-4701</p>
 						<p><img src="images/icn-address.png" alt="" /> WeWork Labs <p><span>175 Varick Street<p><span>NY 10014, USA<span></p></p>
 
 				</div> <!-- end contact-info -->

@@ -5,7 +5,8 @@ parse_str($_SERVER['QUERY_STRING']);
 error_log("here");
 error_log($name);
 
-$email_to = "etayluz@gmail.com,amitcasp@gmail.com";
+//$email_to = "etayluz@gmail.com,amitcasp@gmail.com";
+$email_to = "etayluz@gmail.com";
 $email_subject = "New Lead";
 error_log("here");
 // $name = $_POST['name'];
